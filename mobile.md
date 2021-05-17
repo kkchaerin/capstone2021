@@ -32,9 +32,14 @@
 - 유승원
 - 정인환 교수님
 
-### 27. 팀명, 제목	
-- 김채린	
-- 황기태 교수님
+### 27. 황제펭귄, 휴먼트랙킹을 이용한 스마트 장바구니	
+- 간단한 한줄 설명
+- 김채린, 유수미, 이승현 
+- 지도교수: 황기태 교수님
+- Youtube 동영상 <br/>
+- [![제목](https://img.youtube.com/vi/bnDbjydNtZs/0.jpg)]( https://www.youtube.com/watch?v=VgEbZwg3mSQ)
+  - [Youtube Live]()
+-
 
 ### 32. 팀명, 제목	
 - 강성모
